@@ -6,7 +6,7 @@
     },
     {
       "route": "index",
-      "rewrite": "index.html",
+      "rewrite": "/index.html",
       "headers": {
         "index.html": "index.html"
       }
