@@ -1,10 +1,6 @@
 {
   "routes": [
     {
-      "route": "/callback",
-      "rewrite": "/callback.html"
-    },
-    {
       "route": "connectwallet",
       "rewrite": "/wallet",
       "headers": {
