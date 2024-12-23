@@ -5,7 +5,8 @@
       "rewrite": "/callback.html"
     },
     {
-      "route": "/",
+      "route": "index",
+      "rewrite": "index.html",
       "headers": {
         "index.html": "index.html"
       }
