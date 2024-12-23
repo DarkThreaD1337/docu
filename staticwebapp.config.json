@@ -1,11 +1,1 @@
-{
-  "routes": [
-    {
-      "route": "connectwallet",
-      "rewrite": "/wallet",
-      "headers": {
-        "index.html": "index.html"
-      }
-    }
-  ]
-}
+{}
