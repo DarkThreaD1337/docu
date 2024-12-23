@@ -1,8 +1,14 @@
 {
-    "routes": [
-        {
-            "route": "/callback",
-            "rewrite": "/callback.html"
-        }
-    ]
+  "routes": [
+    {
+      "route": "/callback",
+      "rewrite": "/callback.html"
+    },
+    {
+      "route": "/",
+      "headers": {
+        "index.html": "index.html"
+      }
+    }
+  ]
 }
