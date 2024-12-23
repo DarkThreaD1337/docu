@@ -5,8 +5,8 @@
       "rewrite": "/callback.html"
     },
     {
-      "route": "index",
-      "rewrite": "/index.html",
+      "route": "connectwallet",
+      "rewrite": "/wallet",
       "headers": {
         "index.html": "index.html"
       }
